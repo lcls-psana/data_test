@@ -1,0 +1,12 @@
+
+# ChangeLog file for package data_test
+# ------------------------------------
+# New repository data_test added to git on 2023-10-20
+
+Tag: V00-00-01
+2023-10-20 Mikhail Dubrovin
+- README.md
+- doc/ChangeLog
+- examples/ex01.py - example testing xppn4116_run137_3events.xtc
+- xtc/xppn4116_run137_3events.xtc - epix100a, 3 event for unitest of the major Detector algorithms
+EOF
