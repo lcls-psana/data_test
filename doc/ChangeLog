@@ -3,6 +3,13 @@
 # ------------------------------------
 # New repository data_test added to git on 2023-10-20
 
+Tag: V00-00-02
+2023-10-23 Mikhail Dubrovin
+- add absolute_path and example
+  - add src/absolute_path.py
+  - add SConscript for scons src/absolute_path.py
+  - examples/ex01.py - use absolute_path.py
+
 Tag: V00-00-01
 2023-10-20 Mikhail Dubrovin
 - README.md
