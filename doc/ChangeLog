@@ -3,6 +3,16 @@
 # ------------------------------------
 # New repository data_test added to git on 2023-10-20
 
+Tag: V00-00-03
+2023-11-07 Mikhail Dubrovin
+- modified: examples/ex01.py
+- added:
+  xtc/data-xcsl1004621-r0010-3events-epix10kaquad.xtc
+  xtc/data-xppl1001021-r0023-3events-epix100a-1-5.xtc
+  xtc/data-xppl1001021-r0023-3events-jungfrau1m.xtc
+  xtc/data-xppn4116-r0137-3events-epix100a.xtc
+  xtc/data-xppn4116-r0137-3events-opal1000.xtc
+
 Tag: V00-00-02
 2023-10-23 Mikhail Dubrovin
 - add absolute_path and example
