@@ -5,13 +5,13 @@
 #DIR_XTC_TEST = os.path.join(DIR_DATA_TEST, 'xtc')
 #path = os.path.join(DIR_XTC_TEST, 'xppn4116_run137_3events.xtc')
 
-import data_test.absolute_path as ap
-path = ap.path_to_xtc_test_file(fname='xppn4116_run137_3events.xtc')
-
 #import CalibManager.AppDataPath as adp
 #path_xtc = 'data_test/xtc'
 #path = adp.AppDataPath('%s/xppn4116_run137_3events.xtc' % path_xtc).path()
 #path = adp.AppDataPath(path_xtc).path()
+
+import data_test.absolute_path as ap
+path = ap.path_to_xtc_test_file(fname='data-xppn4116-r0137-3events-epix100a.xtc')
 
 print('path: %s' % path)
 
