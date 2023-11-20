@@ -3,6 +3,16 @@
 # ------------------------------------
 # New repository data_test added to git on 2023-10-20
 
+Tag: V00-00-04
+2023-11-20 Mikhail Dubrovin
+- in this repo only data files are preserved. It is expected to be cloned as
+  git clone git@github.com:lcls-psana/data_test /tmp/data_test
+  code with access methods  and examples is moved to data_test_access repository
+	modified:   README.md
+	deleted:    SConscript
+	deleted:    examples/ex01.py
+	deleted:    src/absolute_path.py
+
 Tag: V00-00-03
 2023-11-07 Mikhail Dubrovin
 - modified: examples/ex01.py
