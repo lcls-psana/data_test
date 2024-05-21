@@ -1,0 +1,12 @@
+=== 2024-05-20
+
+Detector/app/make-3-event-xtc-file /sdf/data/lcls/ds/cxi/cxilx7422/xtc/cxilx7422-r0101-s00-c00.xtc ### > junk.xtc
+mv junk.xtc /tmp/data_test/xtc/data-cxilx7422-r0101-3events-jungfrau4m.xtc
+
+calib directory for /sdf/data/lcls/ds/cxi/
+/tmp/data_test/xtc/data-cxilx7422-r0101-3events-jungfrau4m.xtc
+
+/sdf/data/lcls/ds/cxi/cxilx7422/calib/
+/tmp/data_test/calib/Jungfrau::CalibV1/CxiDs1.0:Jungfrau.0/*
+
+===
