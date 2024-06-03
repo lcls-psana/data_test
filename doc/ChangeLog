@@ -3,6 +3,10 @@
 # ------------------------------------
 # New repository data_test added to git on 2023-10-20
 
+Tag: V00-00-05
+2024-06-03 Mikhail Dubrovin
+- add calib directory with calibration constants for jungfrau and epix100
+
 Tag: V00-00-04
 2023-11-20 Mikhail Dubrovin
 - in this repo only data files are preserved. It is expected to be cloned as
