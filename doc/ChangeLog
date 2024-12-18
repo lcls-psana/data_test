@@ -3,6 +3,13 @@
 # ------------------------------------
 # New repository data_test added to git on 2023-10-20
 
+Tag: V00-00-06
+2024-12-18 Mikhail Dubrovin
+add:
+   calib/Epix10kaQuad::CalibV1/XcsEndstation.0:Epix10kaQuad.0/geometry/0-end.data
+   calib/Epix10kaQuad::CalibV1/XcsEndstation.0:Epix10kaQuad.0/pedestals/10-end.data
+   calib/Epix10kaQuad::CalibV1/XcsEndstation.0:Epix10kaQuad.0/pixel_gain/10-end.data
+
 Tag: V00-00-05
 2024-06-03 Mikhail Dubrovin
 - add calib directory with calibration constants for jungfrau and epix100
